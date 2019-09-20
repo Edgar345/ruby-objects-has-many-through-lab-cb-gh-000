@@ -5,5 +5,7 @@ class Patient
     @name = name
   end
 
-  new_appointment
+  def new_appointment
+
+  end
 end
