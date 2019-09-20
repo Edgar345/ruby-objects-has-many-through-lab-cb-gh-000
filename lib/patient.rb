@@ -4,5 +4,6 @@ class Patient
   def initialize name
     @name = name
   end
-  
+
+  new_appointment
 end
