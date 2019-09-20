@@ -12,7 +12,7 @@ class Genre
   end
 
   def artists
-
+    self.songs.map { |song| song.artist }
   end
 
   def self.all
