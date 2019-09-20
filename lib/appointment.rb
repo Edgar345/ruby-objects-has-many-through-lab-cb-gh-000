@@ -7,5 +7,4 @@ class Appointment
     @patient = patient
     @doctor = doctor
   end
-  "initializes with a date, patient, and doctor"
 end
